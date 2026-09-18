@@ -10,9 +10,9 @@
 > Membuar sebuah program untuk menghitung suhu celcius -reamur-fahrenhait.
 
 ## 2. Mathematical Equation
-> $R = \frac{4}{5}C$
-> $F = \frac{9}{5}C + 32$
-> $C = \frac{5}{4}R$
+> $$R = \frac{4}{5}C$$
+> $$F = \frac{9}{5}C + 32$$
+> $$C = \frac{5}{4}R$$
 > 
 
 
