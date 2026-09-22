@@ -7,7 +7,7 @@
 ---
 
 ## 1. Problem Statement
-> Membuar sebuah program untuk menghitung suhu celcius -reamur-fahrenhait.
+> Membuar sebuah program untuk mempermudah konversi suhu antara celcius -reamur-fahrenhait.
 
 ## 2. Mathematical Equation
 > $$R = \frac{4}{5}C$$
