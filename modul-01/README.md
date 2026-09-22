@@ -7,7 +7,7 @@
 ---
 
 ## 1. Problem Statement
-> Membuar sebuah program untuk mempermudah konversi suhu antara celcius -reamur-fahrenhait.
+> Membuat sebuah program untuk mempermudah konversi suhu antara celcius -reamur-fahrenhait.
 
 ## 2. Mathematical Equation
 > $$R = \frac{4}{5}C$$
@@ -22,9 +22,9 @@
 > 2. Cetak/print Judul "Program Konversi Suhu"
 > 3. Print "Syva Sheptia Melani"
 > 4. Print "NIM: 1306625094
-> 5. Input "Suhu Awal:..."
-> 6. Input "Suhu Akhir:..."
-> 7. Input "Selang:..."
+> 5. Input "Suhu Awal:0"
+> 6. Input "Suhu Akhir:100"
+> 7. Input "Selang:0"
 > 8. Print "TABEL KONVERSI"
 > 9. Print "TABEL...
 > 10. Hitung Celcius ke Reamur: 4/5
